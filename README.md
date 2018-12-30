@@ -1,4 +1,8 @@
-Installation:
+# Blender Sculpt Tools UI
+
+Simple UI for Boolean and Remesh operators
+
+### Installation:
 
 1.  Start Blender. Open User Preferences, the addons tab
 2.  Click "install from file" and point Blender at the downloaded zip
